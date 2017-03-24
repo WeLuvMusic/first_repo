@@ -10,9 +10,5 @@ install:
 - echo "This is install process"
 script:
 - echo "This is script processed
-
 notifications:
   slack: tvinside:NF87gs6RUxM5GcWtlbAUWljz
-
-
-
