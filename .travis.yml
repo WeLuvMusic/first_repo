@@ -6,7 +6,7 @@ python:
 - "3.3"
 - "3.4"
 - "3.5"
-install
+install:
 - echo "This is install process"
-script
+script:
 - echo "This is script processed"
