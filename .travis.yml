@@ -11,4 +11,4 @@ install:
 script:
 - echo "This is script process"
 notifications:
-- slack: tvinside:NF87gs6RUxM5GcWtlbAUWljz
+ slack: tvinside:NF87gs6RUxM5GcWtlbAUWljz
